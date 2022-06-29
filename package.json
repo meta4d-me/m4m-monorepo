@@ -1,0 +1,12 @@
+{
+  "name": "m4m-monorepo",
+  "private": true,
+  "version": "0.0.1",
+  "author": "MetaYoyo",
+  "license": "Apache2.0",
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "typescript": "^4.6.2"
+  },
+  "scripts": {}
+}

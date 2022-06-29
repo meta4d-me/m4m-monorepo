@@ -1,0 +1,9 @@
+[submodule "packages/engine-docs"]
+	path = packages/engine-docs
+	url = https://github.com/meta4d-me/meta4d-engine-docs
+[submodule "packages/nft-sdk"]
+	path = packages/nft-sdk
+	url = https://github.com/meta4d-me/meta4d-nft-sdk
+[submodule "packages/engine"]
+	path = packages/engine
+	url = https://github.com/meta4d-me/m4m-engine
